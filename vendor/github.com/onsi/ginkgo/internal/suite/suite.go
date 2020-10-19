@@ -2,7 +2,7 @@ package suite
 
 import (
 	"math/rand"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"time"
 
 	"github.com/onsi/ginkgo/internal/spec_iterator"

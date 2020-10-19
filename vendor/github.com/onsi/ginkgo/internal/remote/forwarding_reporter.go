@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 
 	"github.com/onsi/ginkgo/internal/writer"

@@ -18,9 +18,9 @@ package util
 
 import (
 	"bytes"
-	"crypto/ecdsa"
-	"crypto/rsa"
-	"crypto/x509"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/rsa"
+	"github.com/studyzy/crypto/x509"
 	"encoding/base64"
 	"encoding/json"
 	"encoding/pem"
@@ -29,7 +29,7 @@ import (
 	"io/ioutil"
 	"math/big"
 	mrand "math/rand"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"os"
 	"path"

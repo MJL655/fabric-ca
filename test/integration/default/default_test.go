@@ -8,10 +8,10 @@ package defserver
 
 import (
 	"bytes"
-	"crypto/ecdsa"
-	"crypto/elliptic"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/elliptic"
 	"crypto/rand"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/pem"
 	"fmt"

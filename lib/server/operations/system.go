@@ -8,11 +8,11 @@ package operations
 
 import (
 	"context"
-	"crypto/tls"
+	"github.com/studyzy/crypto/tls"
 	"fmt"
 	"io"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"strings"
 	"time"
 

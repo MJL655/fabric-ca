@@ -9,7 +9,7 @@ package command
 import (
 	"bufio"
 	"bytes"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"encoding/hex"
 	"encoding/pem"
 	"errors"

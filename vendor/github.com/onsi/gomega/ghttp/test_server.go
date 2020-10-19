@@ -109,7 +109,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/http/httptest"
 	"net/http/httputil"
 	"reflect"

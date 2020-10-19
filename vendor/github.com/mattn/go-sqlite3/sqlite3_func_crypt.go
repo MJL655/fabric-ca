@@ -7,7 +7,7 @@ package sqlite3
 
 import (
 	"crypto/sha1"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 	"crypto/sha512"
 )
 

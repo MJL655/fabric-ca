@@ -16,8 +16,8 @@ limitations under the License.
 package sw
 
 import (
-	"crypto/elliptic"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/elliptic"
+	"github.com/studyzy/crypto/sha256"
 	"crypto/sha512"
 	"fmt"
 	"hash"

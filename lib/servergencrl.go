@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 package lib
 
 import (
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/pem"
 	"fmt"

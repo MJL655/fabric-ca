@@ -7,8 +7,8 @@ SPDX-License-Identifier: Apache-2.0
 package idemix_test
 
 import (
-	"crypto/ecdsa"
-	"crypto/elliptic"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/elliptic"
 	"crypto/rand"
 	"fmt"
 	"io/ioutil"

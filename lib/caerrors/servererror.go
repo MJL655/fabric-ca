@@ -9,7 +9,7 @@ package caerrors
 import (
 	"encoding/json"
 	"fmt"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"reflect"
 
 	cfsslapi "github.com/cloudflare/cfssl/api"

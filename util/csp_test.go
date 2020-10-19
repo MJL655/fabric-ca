@@ -17,7 +17,7 @@ limitations under the License.
 package util_test
 
 import (
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"errors"
 	"fmt"
 	"io/ioutil"

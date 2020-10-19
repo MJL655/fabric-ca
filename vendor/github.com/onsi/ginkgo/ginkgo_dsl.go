@@ -15,7 +15,7 @@ import (
 	"flag"
 	"fmt"
 	"io"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 	"strings"
 	"time"

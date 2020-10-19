@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 package attrmgr_test
 
 import (
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"testing"
 
 	"github.com/hyperledger/fabric-ca/lib/attrmgr"

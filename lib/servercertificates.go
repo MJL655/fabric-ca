@@ -8,7 +8,7 @@ package lib
 
 import (
 	"fmt"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 
 	"github.com/cloudflare/cfssl/log"

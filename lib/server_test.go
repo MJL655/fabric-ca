@@ -8,14 +8,14 @@ package lib_test
 
 import (
 	"bytes"
-	"crypto/tls"
-	"crypto/x509"
+	"github.com/studyzy/crypto/tls"
+	"github.com/studyzy/crypto/x509"
 	"fmt"
 	"io"
 	"io/ioutil"
 	"math/rand"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 	"path"
 	"path/filepath"

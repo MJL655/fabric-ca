@@ -8,13 +8,13 @@
 package ocsp
 
 import (
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 	"encoding/base64"
 	"encoding/hex"
 	"errors"
 	"fmt"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"regexp"
 	"time"

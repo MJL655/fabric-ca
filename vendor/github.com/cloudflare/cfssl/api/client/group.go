@@ -1,9 +1,9 @@
 package client
 
 import (
-	"crypto/tls"
+	"github.com/studyzy/crypto/tls"
 	"errors"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"strings"
 	"time"
 

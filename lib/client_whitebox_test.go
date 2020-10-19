@@ -7,10 +7,10 @@ package lib
 
 import (
 	"crypto/rand"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"fmt"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 	"path"
 	"testing"

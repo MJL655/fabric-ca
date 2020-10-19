@@ -16,11 +16,11 @@ package client
 
 import (
 	"context"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 	"errors"
 	"fmt"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"time"
 
 	"github.com/golang/protobuf/proto"

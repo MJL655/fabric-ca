@@ -2,9 +2,9 @@
 package crl
 
 import (
-	"crypto"
+	"github.com/studyzy/crypto"
 	"crypto/rand"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"math/big"
 	"os"

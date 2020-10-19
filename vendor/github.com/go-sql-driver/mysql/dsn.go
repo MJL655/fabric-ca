@@ -10,8 +10,8 @@ package mysql
 
 import (
 	"bytes"
-	"crypto/rsa"
-	"crypto/tls"
+	"github.com/studyzy/crypto/rsa"
+	"github.com/studyzy/crypto/tls"
 	"errors"
 	"fmt"
 	"math/big"

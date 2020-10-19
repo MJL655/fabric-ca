@@ -7,7 +7,7 @@ package handlers
 import (
 	"io"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"strconv"
 	"time"

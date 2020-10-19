@@ -3,9 +3,9 @@ package certinfo
 import (
 	"bytes"
 	"crypto/dsa"
-	"crypto/ecdsa"
-	"crypto/rsa"
-	"crypto/x509"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/rsa"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"errors"

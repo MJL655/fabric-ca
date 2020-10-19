@@ -8,7 +8,7 @@ package lib
 
 import (
 	"context"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/http/httptest"
 	"os"
 	"testing"

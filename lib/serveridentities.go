@@ -9,7 +9,7 @@ package lib
 import (
 	"encoding/json"
 	"fmt"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 	"strconv"
 

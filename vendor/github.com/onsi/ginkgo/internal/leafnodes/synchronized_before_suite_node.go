@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"reflect"
 	"time"
 

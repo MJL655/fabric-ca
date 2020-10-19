@@ -7,7 +7,7 @@ package auth
 
 import (
 	"crypto/hmac"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 	"encoding/hex"
 	"fmt"
 	"io/ioutil"

@@ -18,8 +18,8 @@ package tls
 
 import (
 	"crypto/rand"
-	"crypto/rsa"
-	"crypto/x509"
+	"github.com/studyzy/crypto/rsa"
+	"github.com/studyzy/crypto/x509"
 	"encoding/pem"
 	"errors"
 	"fmt"

@@ -45,13 +45,13 @@ package x509
 
 import (
 	"bytes"
-	"crypto"
+	"github.com/studyzy/crypto"
 	"crypto/dsa"
-	"crypto/ecdsa"
-	"crypto/elliptic"
-	"crypto/rsa"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/elliptic"
+	"github.com/studyzy/crypto/rsa"
 	_ "crypto/sha1"
-	_ "crypto/sha256"
+	_ "github.com/studyzy/crypto/sha256"
 	_ "crypto/sha512"
 	"encoding/pem"
 	"errors"

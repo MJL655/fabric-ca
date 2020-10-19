@@ -10,7 +10,7 @@ package mysql
 
 import (
 	"bytes"
-	"crypto/tls"
+	"github.com/studyzy/crypto/tls"
 	"database/sql/driver"
 	"encoding/binary"
 	"errors"

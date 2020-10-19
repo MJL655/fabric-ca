@@ -18,7 +18,7 @@ import (
 	"compress/gzip"
 	"io"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"strconv"
 	"strings"
 	"sync"

@@ -3,13 +3,13 @@ package client
 
 import (
 	"bytes"
-	"crypto/tls"
+	"github.com/studyzy/crypto/tls"
 	"encoding/json"
 	stderr "errors"
 	"fmt"
 	"io/ioutil"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"strconv"
 	"strings"

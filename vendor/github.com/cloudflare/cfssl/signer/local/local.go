@@ -3,9 +3,9 @@ package local
 
 import (
 	"bytes"
-	"crypto"
+	"github.com/studyzy/crypto"
 	"crypto/rand"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"encoding/hex"
@@ -14,7 +14,7 @@ import (
 	"io"
 	"math/big"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/mail"
 	"os"
 

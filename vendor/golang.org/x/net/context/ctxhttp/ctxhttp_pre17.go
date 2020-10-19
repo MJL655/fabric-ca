@@ -8,7 +8,7 @@ package ctxhttp // import "golang.org/x/net/context/ctxhttp"
 
 import (
 	"io"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"strings"
 

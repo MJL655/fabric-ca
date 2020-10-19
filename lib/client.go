@@ -8,13 +8,13 @@ package lib
 
 import (
 	"bytes"
-	"crypto"
+	"github.com/studyzy/crypto"
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/url"
 	"os"
 	"path"

@@ -2,7 +2,7 @@ package assert
 
 import (
 	"fmt"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/http/httptest"
 	"net/url"
 	"strings"

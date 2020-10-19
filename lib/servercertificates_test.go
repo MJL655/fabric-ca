@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"net/http/httptest"
 	"os"
 	"path/filepath"

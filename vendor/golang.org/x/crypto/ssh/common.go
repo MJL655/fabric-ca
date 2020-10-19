@@ -5,7 +5,7 @@
 package ssh
 
 import (
-	"crypto"
+	"github.com/studyzy/crypto"
 	"crypto/rand"
 	"fmt"
 	"io"
@@ -13,7 +13,7 @@ import (
 	"sync"
 
 	_ "crypto/sha1"
-	_ "crypto/sha256"
+	_ "github.com/studyzy/crypto/sha256"
 	_ "crypto/sha512"
 )
 

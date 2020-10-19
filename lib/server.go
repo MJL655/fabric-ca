@@ -8,13 +8,13 @@ package lib
 
 import (
 	"context"
-	"crypto/tls"
-	"crypto/x509"
+	"github.com/studyzy/crypto/tls"
+	"github.com/studyzy/crypto/x509"
 	"fmt"
 	"io"
 	"io/ioutil"
 	"net"
-	"net/http"
+	"github.com/studyzy/net/http"
 	_ "net/http/pprof" // import to support profiling
 	"os"
 	"path/filepath"

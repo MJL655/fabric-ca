@@ -7,10 +7,10 @@ SPDX-License-Identifier: Apache-2.0
 package idemix
 
 import (
-	"crypto/ecdsa"
-	"crypto/elliptic"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/elliptic"
 	"crypto/rand"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-amcl/amcl"

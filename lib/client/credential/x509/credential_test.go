@@ -8,11 +8,11 @@ package x509_test
 
 import (
 	"bytes"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"encoding/hex"
 	"fmt"
 	"io/ioutil"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"os"
 	"path/filepath"
 	"testing"

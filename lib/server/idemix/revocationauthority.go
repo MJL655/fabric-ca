@@ -8,7 +8,7 @@ package idemix
 
 import (
 	"bytes"
-	"crypto/ecdsa"
+	"github.com/studyzy/crypto/ecdsa"
 	"fmt"
 
 	"github.com/cloudflare/cfssl/log"

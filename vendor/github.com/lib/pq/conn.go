@@ -3,8 +3,8 @@ package pq
 import (
 	"bufio"
 	"crypto/md5"
-	"crypto/tls"
-	"crypto/x509"
+	"github.com/studyzy/crypto/tls"
+	"github.com/studyzy/crypto/x509"
 	"database/sql"
 	"database/sql/driver"
 	"encoding/binary"

@@ -5,7 +5,7 @@
 package ldap
 
 import (
-	"crypto/tls"
+	"github.com/studyzy/crypto/tls"
 	"errors"
 	"fmt"
 	"log"

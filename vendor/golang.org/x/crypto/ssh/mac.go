@@ -9,7 +9,7 @@ package ssh
 import (
 	"crypto/hmac"
 	"crypto/sha1"
-	"crypto/sha256"
+	"github.com/studyzy/crypto/sha256"
 	"hash"
 )
 

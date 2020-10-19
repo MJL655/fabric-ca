@@ -18,7 +18,7 @@ package lib
 
 import (
 	"crypto/rand"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/pem"
 	"errors"

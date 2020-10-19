@@ -9,8 +9,8 @@ package ocsp
 
 import (
 	"bytes"
-	"crypto"
-	"crypto/x509"
+	"github.com/studyzy/crypto"
+	"github.com/studyzy/crypto/x509"
 	"crypto/x509/pkix"
 	"io/ioutil"
 	"strconv"

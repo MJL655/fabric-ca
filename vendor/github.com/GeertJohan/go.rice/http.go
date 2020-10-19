@@ -1,7 +1,7 @@
 package rice
 
 import (
-	"net/http"
+	"github.com/studyzy/net/http"
 )
 
 // HTTPBox implements http.FileSystem which allows the use of Box with a http.FileServer.

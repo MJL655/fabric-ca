@@ -8,7 +8,7 @@ import (
 	"compress/flate"
 	"compress/gzip"
 	"io"
-	"net/http"
+	"github.com/studyzy/net/http"
 	"strings"
 )
 

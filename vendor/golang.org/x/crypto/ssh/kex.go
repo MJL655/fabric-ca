@@ -5,9 +5,9 @@
 package ssh
 
 import (
-	"crypto"
-	"crypto/ecdsa"
-	"crypto/elliptic"
+	"github.com/studyzy/crypto"
+	"github.com/studyzy/crypto/ecdsa"
+	"github.com/studyzy/crypto/elliptic"
 	"crypto/rand"
 	"crypto/subtle"
 	"errors"

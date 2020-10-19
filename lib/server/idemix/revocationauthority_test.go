@@ -8,7 +8,7 @@ package idemix_test
 
 import (
 	"bytes"
-	"crypto/ecdsa"
+	"github.com/studyzy/crypto/ecdsa"
 	"io/ioutil"
 	"os"
 	"path"
