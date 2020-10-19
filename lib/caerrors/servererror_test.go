@@ -8,7 +8,7 @@ package caerrors
 
 import (
 	"github.com/studyzy/net/http"
-	"net/http/httptest"
+	"github.com/studyzy/net/http/httptest"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

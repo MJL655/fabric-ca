@@ -18,7 +18,7 @@ package lib
 import (
 	"io/ioutil"
 	"github.com/studyzy/net/http"
-	"net/http/httptest"
+	"github.com/studyzy/net/http/httptest"
 	"os"
 	"strconv"
 	"testing"

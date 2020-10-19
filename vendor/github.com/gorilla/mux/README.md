@@ -527,7 +527,7 @@ package main
 
 import (
     "github.com/studyzy/net/http"
-    "net/http/httptest"
+    "github.com/studyzy/net/http/httptest"
     "testing"
 )
 

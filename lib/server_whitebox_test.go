@@ -9,7 +9,7 @@ package lib
 import (
 	"context"
 	"github.com/studyzy/net/http"
-	"net/http/httptest"
+	"github.com/studyzy/net/http/httptest"
 	"os"
 	"testing"
 
