@@ -48,9 +48,11 @@ require (
 	github.com/spf13/viper v0.0.0-20171207042631-1a0c4a370c3e
 	github.com/stretchr/testify v1.3.0
 	github.com/studyzy/crypto v0.0.0-20201015154153-d31e1e6039c6
-	github.com/studyzy/net v0.0.0-20201009065424-632798fa16ef
+	github.com/studyzy/net v0.0.0-20201020014349-89230b9445e0
 	github.com/sykesm/zap-logfmt v0.0.0-20190124193228-ccbdde42f96b // indirect
-	golang.org/x/crypto v0.0.0-20191219195013-becbf705a915
+	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
+	golang.org/x/net v0.0.0-20201020065357-d65d470038a5 // indirect
+	golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/grpc v0.0.0-20151022210000-1f1a4999ca75 // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20150924051756-4e86f4367175 // indirect
