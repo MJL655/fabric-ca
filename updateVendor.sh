@@ -1,6 +1,6 @@
 go mod vendor
 cp vendor/modules.txt ../
-cp -rf vendor/github.com/studyzy/* ../
+cp -Rf vendor/github.com/studyzy/* ../
 cd vendor
 rm -rf *
 git checkout .

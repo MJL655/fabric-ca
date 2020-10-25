@@ -47,7 +47,7 @@ require (
 	github.com/spf13/pflag v0.0.0-20161024131444-5ccb023bc27d
 	github.com/spf13/viper v0.0.0-20171207042631-1a0c4a370c3e
 	github.com/stretchr/testify v1.3.0
-	github.com/studyzy/crypto v0.0.0-20201015154153-d31e1e6039c6
+	github.com/studyzy/crypto v0.0.0-20201025151115-27e67ee9d143
 	github.com/studyzy/net v0.0.0-20201020014349-89230b9445e0
 	github.com/sykesm/zap-logfmt v0.0.0-20190124193228-ccbdde42f96b // indirect
 	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897

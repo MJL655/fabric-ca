@@ -18,7 +18,7 @@ package tcert
 
 import (
 	"bytes"
-	"crypto/aes"
+	"github.com/studyzy/crypto/aes"
 	"crypto/cipher"
 	"github.com/studyzy/crypto/ecdsa"
 	"crypto/rand"

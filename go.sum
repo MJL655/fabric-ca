@@ -111,6 +111,8 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/studyzy/crypto v0.0.0-20201015154153-d31e1e6039c6 h1:cBbZUwsZZGMjc3hi6Z+XWH6fPDFTsiiDnBAehHpwnh4=
 github.com/studyzy/crypto v0.0.0-20201015154153-d31e1e6039c6/go.mod h1:0cdg6vLIxkmOi52i8iObcnpZhOHWsPTkdO29RDk1fh8=
+github.com/studyzy/crypto v0.0.0-20201025151115-27e67ee9d143 h1:UMXM5TkaeSjH2CVg9PG3a/vN55HqxOiIGozNG0gl/5Q=
+github.com/studyzy/crypto v0.0.0-20201025151115-27e67ee9d143/go.mod h1:0cdg6vLIxkmOi52i8iObcnpZhOHWsPTkdO29RDk1fh8=
 github.com/studyzy/net v0.0.0-20201009065424-632798fa16ef h1:fOYqMCtAzf5lwRd4uWZow+q3KqoPKnMxOWjZnqqDSsI=
 github.com/studyzy/net v0.0.0-20201009065424-632798fa16ef/go.mod h1:eZ6PuAvUljLIg8usbTN+cBHWExfZwgUkUBRzj55dnrs=
 github.com/studyzy/net v0.0.0-20201020014349-89230b9445e0 h1:tFPeoww35q2gdH+1P4qtJ+SOhkFDyuoVGh/Fqsa0DKg=
